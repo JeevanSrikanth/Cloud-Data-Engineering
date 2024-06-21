@@ -34,6 +34,10 @@
 2. Create pipeline to copy data from Sql server to Sql Server
 
 # Questions
-1. 
+1. When we are trying to connect SQL server from the ADF, it is giving me the below error message :
+Cannot connect to SQL Database. Please contact SQL server team for further support. Server: 'JEEVAN-SRIKANTH', Database: 'B2401DB', User: 'sa'. Check the linked service configuration is correct, and make sure the SQL Database firewall allows the integration runtime to access.
+Login failed for user 'sa'., SqlErrorNumber=18456,Class=14,State=1,
+
+What can I do for this Sir ? Where can I check the SQL firewall settings 
 # Answers
 1. 
